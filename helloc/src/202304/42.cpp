@@ -1,4 +1,5 @@
 // 四、程序分析题
+//42.
 #include<iostream>
 using namespace std;
 
